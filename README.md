@@ -206,3 +206,15 @@ If you use this code in your research, please cite:
 - PyTorch Geometric team
 - NetworkX developers
 - Scikit-learn contributors
+
+## Dataset
+
+The dataset files are too large to host on GitHub directly.
+
+📥 **Download the dataset here:**
+[Download Dataset](https://drive.google.com/file/d/1qZjcKWO2NVvKO7jOhVzoTUEiOs2UD9AR/view?usp=drive_link)
+
+### After downloading:
+1. Extract the zip file
+2. Place the contents in the `FakeNewsNet/` folder
+3. Place CSV files in the `data/` folder
